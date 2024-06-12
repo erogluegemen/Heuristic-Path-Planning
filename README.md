@@ -77,4 +77,4 @@ MLGP is effective for large graphs, producing high-quality partitions through a 
 To use this project, you can find the source code in the GitHub repository provided below. The code includes implementations of the KL, FM, and MLGP algorithms, along with example usage for various applications in path planning.
 
 ## GitHub Repository
-Find the source code and more details in our [GitHub Repository](https://github.com/erogluegemen/Heuristic-Path-Plannin).
+Find the source code and more details in our [GitHub Repository](https://github.com/erogluegemen/Heuristic-Path-Planning).
