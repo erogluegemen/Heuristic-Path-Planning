@@ -1,4 +1,4 @@
-# Heuristic-based Path Planning
+# Heuristic Path Planning
 
 Heuristic-based Path Planning is a project dedicated to finding optimal routes efficiently. Applicable across robotics, transportation, and gaming, it offers robust and timely path planning solutions.
 
